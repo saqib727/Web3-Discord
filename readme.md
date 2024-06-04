@@ -29,4 +29,5 @@ npm install
 5. Start the React development server.
 ``` npm start
 ```
+![alt text](image.png)
 Access the application in your web browser at http://localhost:3000 and start building your Web 3.0 Discord clone!
