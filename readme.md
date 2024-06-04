@@ -9,7 +9,7 @@ The repository also includes best practices, design patterns, and security consi
 To get started, follow these steps:
 
 1. Clone the repository to your local development environment.
- ``` git clone https://github.com/saqib772/web-3.0-Discord-.git ```
+ ``` git clone https://github.com/saqib727/Web3-Discord ```
  
 2. Install the dependencies for the Solidity smart contracts.
 ``` cd web3-discord-clone
